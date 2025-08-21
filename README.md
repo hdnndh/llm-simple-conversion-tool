@@ -1,2 +1,2 @@
-# Llama-conversion-tool
-Simple llama conversion
+# llm-conversion-tool
+Simple llm conversion tool
